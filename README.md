@@ -3,7 +3,7 @@ I am a data scientist and AI researcher in finance working on NLP and language m
 
 - 💼 Currently a research analyst / data scientist at a bulge bracket bank
 - ⌛ Building a deep learning library entirely from scratch
-- 📩 How to reach me: yjang385 at gmail.com
+- 📩 How to reach me: yjang385 [at] gmail.com
   
 ### ⚡ Languages and Tools
 <div>
