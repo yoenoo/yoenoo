@@ -2,7 +2,7 @@ Hi there, I'm [Yeonwoo](https://yoenoo.github.io/)! 👋<br/>
 I am a data scientist and AI researcher in finance working on NLP and language models.
 
 - 💼 Currently a research analyst / data scientist at a bulge bracket bank
-- ⌛ Working on building a deep learning library entirely from scratch
+- ⌛ Building a deep learning library entirely from scratch
 - 📩 How to reach me: yjang385 at gmail.com
   
 ### ⚡ Languages and Tools
