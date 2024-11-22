@@ -1,8 +1,8 @@
 Hi there, I'm [Yeonwoo](https://yoenoo.github.io/)! 👋<br/>
-I am a data scientist and AI researcher in finance working on NLP and language models.
+I am a research data scientist and AI interpretability researcher on Wall Street.
 
-- 💼 Currently a research analyst / data scientist at a bulge bracket bank
-- ⌛ ~~Building a deep learning library entirely from scratch~~
+- 💼 Currently an AI researcher / data scientist at a bulge bracket bank (Equity Research)
+- 💭 My research interests include: Interpretability, Robustness, Statistical Learning Theory (esp. Representation Learning), with applications in healthcare and biomedicine
 - 📩 How to reach me: yjang385 [at] gmail.com
   
 ### ⚡ Languages and Tools
