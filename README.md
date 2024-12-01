@@ -1,4 +1,4 @@
-Hi there, I'm [Yeonwoo](https://yoenoo.github.io/)! 👋<br/>
+Hi there, I'm Yeonwoo! 👋<br/>
 I am a research data scientist and AI interpretability researcher on Wall Street.
 
 - 💼 Currently an AI researcher / data scientist at a bulge bracket bank (Equity Research)
