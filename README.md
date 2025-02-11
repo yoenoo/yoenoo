@@ -1,7 +1,7 @@
-Hi there, I'm Yeonwoo! 👋<br/>
+Hi there 👋<br/>
 I am a research data scientist and AI interpretability researcher on Wall Street.
 
-- 💼 Currently an AI researcher / data scientist at a bulge bracket bank (Equity Research)
+- 💼 Currently an AI researcher/data scientist at a bulge bracket bank (Equity Research)
 - 💭 My research interests include: Interpretability, Robustness, Statistical Learning Theory (Representation Learning)
 - 📩 How to reach me: yjang385 [at] gmail.com
   
