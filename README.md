@@ -3,10 +3,10 @@ I am a quantitative researcher and AI researcher on Wall Street.
 
 - 💼 Currently an AI researcher/quantitative researcher at a bulge bracket bank (Equity Research)
 - 💡 My research interests include:
-  - AI Agents for Scientific Discovery
-  - Open-endedness
   - Safety/Interpretability/Alignment
   - LLM Evals
+  - AI Agents for Scientific Discovery
+  - Open-endedness
 - 📩 How to reach me: yjang385 [at] gmail.com
   
 ### ⚡ Languages and Tools
